@@ -1,0 +1,27 @@
+Parsing Expression Grammar
+==========================
+
+This is an import of Ian Piumarta's peg/leg system for using parsing
+expression grammars from C. The original code was from:
+
+  http://piumarta.com/software/peg/peg-0.1.4.tar.gz
+
+I applied changes to enable the generated grammars to compile with
+g++.
+
+Documentation is at:
+
+  http://piumarta.com/software/peg/
+
+Contact
+=======
+
+The repository containing these changes is:
+
+  http://github.com/doublec/peg
+
+I can be reached at:
+
+Chris Double.
+chris.double@double.co.nz
+http://www.bluishcoder.co.nz
